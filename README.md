@@ -187,23 +187,6 @@ google-tasks-bulk-importer/
 ├── README.md            # Documentation
 └── LICENSE              # MIT License
 ```
-
-## Important Notes
-
-### Month Numbers
-- 1 = January
-- 2 = February
-- 3 = March
-- 4 = April
-- 5 = May
-- 6 = June
-- 7 = July
-- 8 = August
-- 9 = September
-- 10 = October
-- 11 = November
-- 12 = December
-
 ### Time Zones
 Common time zones:
 - Asia/Qatar (Doha)
@@ -213,12 +196,6 @@ Common time zones:
 - America/Los_Angeles (US Pacific)
 - Europe/London (UK)
 - Asia/Dubai (UAE)
-
-### Tips
-- Test with 2-3 assignments first before bulk import
-- Multiple courses: Run multiple times with different configs
-- Check execution logs for detailed output
-- CSV must be in same Drive folder or specify full path
 
 ## Common Issues
 
@@ -253,7 +230,3 @@ MIT License - Free to use and modify
 - Star this repo if you find it helpful
 - Report issues on GitHub
 - Suggest features via Issues
-
----
-
-C
